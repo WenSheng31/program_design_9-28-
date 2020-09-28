@@ -1,0 +1,10 @@
+C:\Users\STUST\Desktop\4a990028\4a990028\obj\Debug\4a990028.csprojAssemblyReference.cache
+C:\Users\STUST\Desktop\4a990028\4a990028\obj\Debug\_4a990028.Form1.resources
+C:\Users\STUST\Desktop\4a990028\4a990028\obj\Debug\_4a990028.Properties.Resources.resources
+C:\Users\STUST\Desktop\4a990028\4a990028\obj\Debug\4a990028.csproj.GenerateResource.cache
+C:\Users\STUST\Desktop\4a990028\4a990028\obj\Debug\4a990028.csproj.CoreCompileInputs.cache
+C:\Users\STUST\Desktop\4a990028\4a990028\bin\Debug\4a990028.exe.config
+C:\Users\STUST\Desktop\4a990028\4a990028\bin\Debug\4a990028.exe
+C:\Users\STUST\Desktop\4a990028\4a990028\bin\Debug\4a990028.pdb
+C:\Users\STUST\Desktop\4a990028\4a990028\obj\Debug\4a990028.exe
+C:\Users\STUST\Desktop\4a990028\4a990028\obj\Debug\4a990028.pdb
